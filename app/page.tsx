@@ -1,5 +1,4 @@
 "use client";
-import Header from "@/components/Header";
 import HomeCategory from "@/components/HomeCategory"
 import HomeProducts from "@/components/HomeProducts"
 import { useState } from "react"
